@@ -1,0 +1,8 @@
+D:\Mystat домашка\CPNET_Plumber\ServerPlumber\bin\Debug\ServerPlumber.exe.config
+D:\Mystat домашка\CPNET_Plumber\ServerPlumber\bin\Debug\ServerPlumber.exe
+D:\Mystat домашка\CPNET_Plumber\ServerPlumber\bin\Debug\ServerPlumber.pdb
+D:\Mystat домашка\CPNET_Plumber\ServerPlumber\obj\Debug\ServerPlumber.csproj.AssemblyReference.cache
+D:\Mystat домашка\CPNET_Plumber\ServerPlumber\obj\Debug\ServerPlumber.csproj.SuggestedBindingRedirects.cache
+D:\Mystat домашка\CPNET_Plumber\ServerPlumber\obj\Debug\ServerPlumber.csproj.CoreCompileInputs.cache
+D:\Mystat домашка\CPNET_Plumber\ServerPlumber\obj\Debug\ServerPlumber.exe
+D:\Mystat домашка\CPNET_Plumber\ServerPlumber\obj\Debug\ServerPlumber.pdb

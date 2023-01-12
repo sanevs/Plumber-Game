@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerPlumber", "ServerPlumber\ServerPlumber.csproj", "{6339379C-7584-4289-B09A-C1F2AADB236F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientPlumber", "ClientPlumber\ClientPlumber.csproj", "{31C3E923-3880-4583-9A13-EC6C35E970C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6339379C-7584-4289-B09A-C1F2AADB236F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6339379C-7584-4289-B09A-C1F2AADB236F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6339379C-7584-4289-B09A-C1F2AADB236F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6339379C-7584-4289-B09A-C1F2AADB236F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C3E923-3880-4583-9A13-EC6C35E970C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C3E923-3880-4583-9A13-EC6C35E970C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C3E923-3880-4583-9A13-EC6C35E970C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C3E923-3880-4583-9A13-EC6C35E970C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DCCEB72-07A1-4860-8EA4-73C8DB4C642E}
+	EndGlobalSection
+EndGlobal

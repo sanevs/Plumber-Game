@@ -1,0 +1,25 @@
+﻿<Window x:Class="ClientPlumber.ConnectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Подключение к игре" Height="200" Width="300"
+        MaxHeight="200" MaxWidth="300"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded">
+    <DockPanel>
+        <TextBlock DockPanel.Dock="Top">
+            Введите IP, порт, имя игрока и нажмите ИГРАТЬ
+        </TextBlock>
+        <TextBox DockPanel.Dock="Top" x:Name="ip"/>
+        <TextBox DockPanel.Dock="Top" x:Name="port"/>
+        <TextBox DockPanel.Dock="Top" x:Name="name" Focusable="True"/>
+        <Button Click="Button_Click" 
+                Width="70"
+                Margin="10"
+                IsDefault="True">
+            <Image x:Name="img"/>
+        </Button>
+    </DockPanel>
+</Window>
